@@ -1,4 +1,4 @@
-# zach commit
+# zach commit - this is the newest (not pushed to primary)
 view: users {
   sql_table_name: `ecomm.users` ;;
   drill_fields: [id]
